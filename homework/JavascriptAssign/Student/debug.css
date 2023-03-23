@@ -1,0 +1,40 @@
+/* Objective: This assignment aims to help students practice their debugging skills by finding and fixing small errors in CSS code. The students are required to review the provided CSS code, identify the errors, and then fix them.
+
+Instructions:
+
+Read through the provided CSS code with errors.
+Identify and fix the errors in the code.
+Test the corrected CSS code to ensure it works as expected. */
+
+body {
+  font-family: Arial, sans-serf;
+  background-colour: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+  text-algin: center;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 10px;
+}
+
+ul {
+  list-styl: none;
+  padding-left: 0;
+}
+
+li {
+  padding: 5px 0;
+}
+
+a {
+  color: #2d8cf0;
+  text-decorations: none;
+}

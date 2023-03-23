@@ -1,0 +1,42 @@
+/* corrected css code  */
+/* List of Errors and Fixes:
+
+Typo in the font-family property value: "sans-serf" should be "sans-serif."
+Typo in the background-color property name: "background-colour" should be "background-color."
+Typo in the text-align property name: "text-algin" should be "text-align."
+Typo in the list-style property name: "list-styl" should be "list-style."
+Typo in the text-decoration property name: "text-decorations" should be "text-decoration."
+After fixing the errors, make sure to test the CSS code to ensure it works as expected. */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  padding: 5px 0;
+}
+
+a {
+  color: #2d8cf0;
+  text-decoration: none;
+}
